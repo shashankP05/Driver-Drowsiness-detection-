@@ -2,6 +2,7 @@
 
 ## Overview
 This project provides a real-time, multi-person drowsiness and age detection system using deep learning and computer vision. It features a Tkinter-based GUI for webcam and image upload, and displays per-person drowsiness and age results.
+<img width="935" height="463" alt="Screenshot 2025-07-01 210727" src="https://github.com/user-attachments/assets/05dc681a-aa11-4748-940c-43f265ea0335" />
 
 ## Features
 - Real-time drowsiness detection using a fine-tuned MobileNet model (TensorFlow/Keras)
